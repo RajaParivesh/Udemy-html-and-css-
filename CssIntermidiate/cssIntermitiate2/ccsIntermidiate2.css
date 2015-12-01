@@ -1,0 +1,26 @@
+div{
+	float: left;
+}
+#abc{
+	background-color: pink;
+}
+#cba{
+	background-color:red;
+}
+img{
+	width: 30%;
+	height: 35%;
+	float: left;
+	margin: 1.66%;
+}
+
+p{
+	font-family: cursive;
+	margin-left: 1.66%;
+	font-size: 30px;
+	font-weight: 800;
+	text-transform: uppercase;
+	border-bottom: 3px solid #f1f1f1;
+	border-width: 30%;							/* take care*/
+	width: 30%;                                   /*take care*/
+}
